@@ -1,5 +1,5 @@
 # Replace with your API keys
-consumer_key = "jCuMds8hkjry8JV8JDEuDVH9o"
-consumer_secret = "psgKB7nb05kZqoD2ZFPrG78OqbObHySWUEhcLFcZ03qVMlsCwp"
-access_token = "814999527451148288-PVho6BBmmcQbSVKOHBt3E5jbPJM6Krl"
-access_token_secret = "a30jMaE70P2kefPFOzrfGTlA06okUcifkjJB9g2JWq4Ih"
+consumer_key = 'D0wvphKgUtO53D9YEDdb2S3pE'
+consumer_secret = "nXNbC3OVb1YiE9wbZpcCcMv6ZHALlkDKNvRHmHQ9zTcsW2BS3L"
+access_token = "874542160011382784-r6gpZVjS4eGWiBIqyLep33mJnBsHOd9"
+access_token_secret = "ybAzoK7ZU8uWpsfUdVmsWj5W1Oo2VNj3TUbtBv7H0JbQN"
